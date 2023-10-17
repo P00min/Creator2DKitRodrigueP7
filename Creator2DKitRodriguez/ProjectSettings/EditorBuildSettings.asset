@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/LOL.unity
     guid: 3e0331314876d754eb79513ca82aff85
+  - enabled: 1
+    path: Assets/LVL1.unity
+    guid: 841a805dcf7fa9543bd77f41d98bf9d0
   m_configObjects: {}
